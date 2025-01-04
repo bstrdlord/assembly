@@ -1,2 +1,3 @@
-# asm
-linux x86_64 asm (nasm)
+### assembly
+
+https://chromium.googlesource.com/chromiumos/docs/+/master/constants/syscalls.md
